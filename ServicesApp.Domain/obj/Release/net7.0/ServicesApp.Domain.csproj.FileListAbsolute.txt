@@ -1,0 +1,12 @@
+G:\Freelanig Project\ServicesApp\ServicesApp.Domain\bin\Release\net7.0\ServicesApp.Domain.deps.json
+G:\Freelanig Project\ServicesApp\ServicesApp.Domain\bin\Release\net7.0\ServicesApp.Domain.dll
+G:\Freelanig Project\ServicesApp\ServicesApp.Domain\bin\Release\net7.0\ServicesApp.Domain.pdb
+G:\Freelanig Project\ServicesApp\ServicesApp.Domain\obj\Release\net7.0\ServicesApp.Domain.csproj.AssemblyReference.cache
+G:\Freelanig Project\ServicesApp\ServicesApp.Domain\obj\Release\net7.0\ServicesApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+G:\Freelanig Project\ServicesApp\ServicesApp.Domain\obj\Release\net7.0\ServicesApp.Domain.AssemblyInfoInputs.cache
+G:\Freelanig Project\ServicesApp\ServicesApp.Domain\obj\Release\net7.0\ServicesApp.Domain.AssemblyInfo.cs
+G:\Freelanig Project\ServicesApp\ServicesApp.Domain\obj\Release\net7.0\ServicesApp.Domain.csproj.CoreCompileInputs.cache
+G:\Freelanig Project\ServicesApp\ServicesApp.Domain\obj\Release\net7.0\ServicesApp.Domain.dll
+G:\Freelanig Project\ServicesApp\ServicesApp.Domain\obj\Release\net7.0\refint\ServicesApp.Domain.dll
+G:\Freelanig Project\ServicesApp\ServicesApp.Domain\obj\Release\net7.0\ServicesApp.Domain.pdb
+G:\Freelanig Project\ServicesApp\ServicesApp.Domain\obj\Release\net7.0\ref\ServicesApp.Domain.dll

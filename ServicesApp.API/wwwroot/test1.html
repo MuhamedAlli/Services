@@ -1,0 +1,51 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <title>SignalR Chat</title>
+</head>
+<body>
+    <div>
+        <h1>SignalR Chat</h1>
+        <div id="chat-container">
+            <ul id="message-list"></ul>
+            <input type="text" id="message-input" placeholder="Type a message...">
+            <button onclick="sendMessage()">Send</button>
+        </div>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.0/jquery.min.js" integrity="sha512-pXR0JHbYm9+EGib6xR/w+uYs/u2V84ofPrBpkgLYyKvhZYJtUUvKSy1pgi8tJZAacsPwgf1kbhI4zwgu8OKOqA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+    <script src="lib/js/signalR/dist/browser/signalr.min.js"></script>
+
+    <script>
+        "use strict";
+        var connection = new signalR.HubConnectionBuilder().withUrl("chatHub", {
+            skipNegotiation: true,
+            transport: signalR.HttpTransportType.WebSockets
+        }).build();
+
+        connection.start().then(function () {
+            console.log("Connected to NotificationHub");
+            
+            connection.invoke("SubscribeUserToChat", "63c898ff-2b04-4dec-bb5e-e72ae8c5e2b0")
+                .then(() => {
+                  
+                })
+                .catch((err) => console.error(err));
+           //make message is readed
+           
+        });
+            connection.on("receiveNewMessage", function (content) {
+                console.log(content);
+                connection.invoke("MarkAsRead", content["id"])
+                    .catch((err) => console.error(err));
+            });
+        connection.on("UpdateMessageState", function (content) {
+            console.log(content);
+        });
+      
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,593 @@
+{
+  "Files": [
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\images\\messages\\12fdb562-7f25-45fe-b3b0-97bdd5cd7852.mp4",
+      "PackagePath": "staticwebassets\\images\\messages\\12fdb562-7f25-45fe-b3b0-97bdd5cd7852.mp4"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\images\\messages\\253c81cb-4344-4ef6-af61-d3e681e685a8.png",
+      "PackagePath": "staticwebassets\\images\\messages\\253c81cb-4344-4ef6-af61-d3e681e685a8.png"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\images\\messages\\61938060-2028-4e07-8a8b-4c164c959628.png",
+      "PackagePath": "staticwebassets\\images\\messages\\61938060-2028-4e07-8a8b-4c164c959628.png"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\images\\messages\\717208c8-634b-49ab-9323-c3426bca36a8.png",
+      "PackagePath": "staticwebassets\\images\\messages\\717208c8-634b-49ab-9323-c3426bca36a8.png"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\images\\messages\\74f91934-7711-4fba-82f4-ddb1c321ceef.png",
+      "PackagePath": "staticwebassets\\images\\messages\\74f91934-7711-4fba-82f4-ddb1c321ceef.png"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\images\\messages\\9696cdea-249f-48d6-9feb-23428e2f18fe.mp4",
+      "PackagePath": "staticwebassets\\images\\messages\\9696cdea-249f-48d6-9feb-23428e2f18fe.mp4"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\images\\messages\\bd0fc279-3432-4f4b-a57b-461161f7a48f.png",
+      "PackagePath": "staticwebassets\\images\\messages\\bd0fc279-3432-4f4b-a57b-461161f7a48f.png"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\images\\messages\\d748392d-0822-48ee-86c7-3abf0583938e.mp3",
+      "PackagePath": "staticwebassets\\images\\messages\\d748392d-0822-48ee-86c7-3abf0583938e.mp3"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\images\\messages\\ffdcb8b9-b23f-4f3e-b5fe-58c6c06709ca.png",
+      "PackagePath": "staticwebassets\\images\\messages\\ffdcb8b9-b23f-4f3e-b5fe-58c6c06709ca.png"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\images\\services\\3f7f5817-ef8f-4733-9377-8fff16becdda.png",
+      "PackagePath": "staticwebassets\\images\\services\\3f7f5817-ef8f-4733-9377-8fff16becdda.png"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\images\\services\\f449a3e8-e276-478f-8fd8-ad0e2fdaa4ff.png",
+      "PackagePath": "staticwebassets\\images\\services\\f449a3e8-e276-478f-8fd8-ad0e2fdaa4ff.png"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\images\\services\\f4d4fab3-b4b8-431a-97de-17d89822f956.png",
+      "PackagePath": "staticwebassets\\images\\services\\f4d4fab3-b4b8-431a-97de-17d89822f956.png"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\images\\users\\1ad71f1a-d5e9-413c-8632-94e8360cada1.jpeg",
+      "PackagePath": "staticwebassets\\images\\users\\1ad71f1a-d5e9-413c-8632-94e8360cada1.jpeg"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\images\\users\\bfb9c443-19cd-41c4-b2cf-5548d14229f1.png",
+      "PackagePath": "staticwebassets\\images\\users\\bfb9c443-19cd-41c4-b2cf-5548d14229f1.png"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\AUTHORS.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\AUTHORS.txt"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\README.md",
+      "PackagePath": "staticwebassets\\lib\\jquery\\README.md"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\bower.json",
+      "PackagePath": "staticwebassets\\lib\\jquery\\bower.json"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\package.json",
+      "PackagePath": "staticwebassets\\lib\\jquery\\package.json"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\ajax.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\ajax.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\ajax\\jsonp.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\ajax\\jsonp.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\ajax\\load.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\ajax\\load.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\ajax\\script.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\ajax\\script.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\ajax\\var\\location.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\ajax\\var\\location.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\ajax\\var\\nonce.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\ajax\\var\\nonce.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\ajax\\var\\rquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\ajax\\var\\rquery.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\ajax\\xhr.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\ajax\\xhr.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\attributes.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\attributes.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\attributes\\attr.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\attributes\\attr.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\attributes\\classes.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\attributes\\classes.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\attributes\\prop.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\attributes\\prop.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\attributes\\support.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\attributes\\support.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\attributes\\val.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\attributes\\val.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\callbacks.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\callbacks.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\core.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\core.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\core\\DOMEval.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\core\\DOMEval.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\core\\access.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\core\\access.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\core\\camelCase.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\core\\camelCase.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\core\\init.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\core\\init.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\core\\isAttached.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\core\\isAttached.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\core\\nodeName.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\core\\nodeName.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\core\\parseHTML.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\core\\parseHTML.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\core\\parseXML.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\core\\parseXML.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\core\\ready-no-deferred.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\core\\ready-no-deferred.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\core\\ready.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\core\\ready.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\core\\readyException.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\core\\readyException.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\core\\stripAndCollapse.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\core\\stripAndCollapse.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\core\\support.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\core\\support.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\core\\toType.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\core\\toType.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\core\\var\\rhtml.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\core\\var\\rhtml.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\core\\var\\rsingleTag.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\core\\var\\rsingleTag.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\css.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\css.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\css\\addGetHookIf.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\css\\addGetHookIf.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\css\\adjustCSS.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\css\\adjustCSS.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\css\\curCSS.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\css\\curCSS.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\css\\finalPropName.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\css\\finalPropName.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\css\\hiddenVisibleSelectors.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\css\\hiddenVisibleSelectors.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\css\\showHide.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\css\\showHide.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\css\\support.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\css\\support.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\css\\var\\cssExpand.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\css\\var\\cssExpand.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\css\\var\\getStyles.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\css\\var\\getStyles.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\css\\var\\isHiddenWithinTree.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\css\\var\\isHiddenWithinTree.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\css\\var\\rboxStyle.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\css\\var\\rboxStyle.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\css\\var\\rcustomProp.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\css\\var\\rcustomProp.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\css\\var\\rnumnonpx.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\css\\var\\rnumnonpx.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\css\\var\\swap.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\css\\var\\swap.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\data.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\data.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\data\\Data.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\data\\Data.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\data\\var\\acceptData.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\data\\var\\acceptData.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\data\\var\\dataPriv.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\data\\var\\dataPriv.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\data\\var\\dataUser.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\data\\var\\dataUser.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\deferred.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\deferred.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\deferred\\exceptionHook.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\deferred\\exceptionHook.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\deprecated.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\deprecated.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\deprecated\\ajax-event-alias.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\deprecated\\ajax-event-alias.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\deprecated\\event.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\deprecated\\event.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\dimensions.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\dimensions.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\effects.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\effects.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\effects\\Tween.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\effects\\Tween.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\effects\\animatedSelector.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\effects\\animatedSelector.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\event.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\event.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\event\\trigger.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\event\\trigger.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\exports\\amd.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\exports\\amd.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\exports\\global.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\exports\\global.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\jquery.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\manipulation.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\manipulation.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\manipulation\\_evalUrl.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\manipulation\\_evalUrl.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\manipulation\\buildFragment.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\manipulation\\buildFragment.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\manipulation\\getAll.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\manipulation\\getAll.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\manipulation\\setGlobalEval.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\manipulation\\setGlobalEval.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\manipulation\\support.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\manipulation\\support.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\manipulation\\var\\rscriptType.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\manipulation\\var\\rscriptType.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\manipulation\\var\\rtagName.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\manipulation\\var\\rtagName.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\manipulation\\wrapMap.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\manipulation\\wrapMap.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\offset.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\offset.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\queue.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\queue.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\queue\\delay.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\queue\\delay.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\selector-native.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\selector-native.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\selector.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\selector.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\selector\\contains.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\selector\\contains.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\selector\\escapeSelector.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\selector\\escapeSelector.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\serialize.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\serialize.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\traversing.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\traversing.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\traversing\\findFilter.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\traversing\\findFilter.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\traversing\\var\\dir.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\traversing\\var\\dir.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\traversing\\var\\rneedsContext.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\traversing\\var\\rneedsContext.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\traversing\\var\\siblings.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\traversing\\var\\siblings.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\var\\ObjectFunctionString.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\ObjectFunctionString.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\var\\arr.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\arr.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\var\\class2type.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\class2type.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\var\\document.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\document.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\var\\documentElement.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\documentElement.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\var\\flat.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\flat.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\var\\fnToString.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\fnToString.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\var\\getProto.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\getProto.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\var\\hasOwn.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\hasOwn.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\var\\indexOf.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\indexOf.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\var\\isFunction.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\isFunction.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\var\\isWindow.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\isWindow.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\var\\pnum.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\pnum.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\var\\pop.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\pop.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\var\\push.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\push.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\var\\rcheckableType.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\rcheckableType.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\var\\rcssNum.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\rcssNum.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\var\\rnothtmlwhite.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\rnothtmlwhite.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\var\\rtrimCSS.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\rtrimCSS.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\var\\slice.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\slice.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\var\\sort.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\sort.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\var\\splice.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\splice.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\var\\support.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\support.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\var\\toString.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\toString.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\var\\whitespace.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\whitespace.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\jquery\\src\\wrap.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\wrap.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\js\\signalR\\dist\\browser\\signalr.js",
+      "PackagePath": "staticwebassets\\lib\\js\\signalR\\dist\\browser\\signalr.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\lib\\js\\signalR\\dist\\browser\\signalr.min.js",
+      "PackagePath": "staticwebassets\\lib\\js\\signalR\\dist\\browser\\signalr.min.js"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\test1.html",
+      "PackagePath": "staticwebassets\\test1.html"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\test2.html",
+      "PackagePath": "staticwebassets\\test2.html"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.ServicesApp.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.build.ServicesApp.API.props",
+      "PackagePath": "build\\ServicesApp.API.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.ServicesApp.API.props",
+      "PackagePath": "buildMultiTargeting\\ServicesApp.API.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildTransitive.ServicesApp.API.props",
+      "PackagePath": "buildTransitive\\ServicesApp.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

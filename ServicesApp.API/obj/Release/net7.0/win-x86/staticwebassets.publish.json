@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "8gTUyP2mChMaAogPuPwP8KZxx+/wnPXEuyXSMPn0nMk=",
+  "Source": "ServicesApp.API",
+  "BasePath": "_content/ServicesApp.API",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ServicesApp.API\\wwwroot",
+      "Source": "ServicesApp.API",
+      "ContentRoot": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\",
+      "BasePath": "_content/ServicesApp.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\images\\465325c2-f331-4d20-bfa9-b5c9e51df1c7.png",
+      "SourceId": "ServicesApp.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\",
+      "BasePath": "_content/ServicesApp.API",
+      "RelativePath": "images/465325c2-f331-4d20-bfa9-b5c9e51df1c7.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\465325c2-f331-4d20-bfa9-b5c9e51df1c7.png"
+    },
+    {
+      "Identity": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\images\\db8dd26c-11c6-4484-9db0-459413576e7a.png",
+      "SourceId": "ServicesApp.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\",
+      "BasePath": "_content/ServicesApp.API",
+      "RelativePath": "images/db8dd26c-11c6-4484-9db0-459413576e7a.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\db8dd26c-11c6-4484-9db0-459413576e7a.png"
+    }
+  ]
+}

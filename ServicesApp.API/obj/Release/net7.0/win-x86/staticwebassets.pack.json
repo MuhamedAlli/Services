@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\images\\465325c2-f331-4d20-bfa9-b5c9e51df1c7.png",
+      "PackagePath": "staticwebassets\\images\\465325c2-f331-4d20-bfa9-b5c9e51df1c7.png"
+    },
+    {
+      "Id": "G:\\Freelanig Project\\ServicesApp\\ServicesApp.API\\wwwroot\\images\\db8dd26c-11c6-4484-9db0-459413576e7a.png",
+      "PackagePath": "staticwebassets\\images\\db8dd26c-11c6-4484-9db0-459413576e7a.png"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\win-x86\\staticwebassets\\msbuild.ServicesApp.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\win-x86\\staticwebassets\\msbuild.build.ServicesApp.API.props",
+      "PackagePath": "build\\ServicesApp.API.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\win-x86\\staticwebassets\\msbuild.buildMultiTargeting.ServicesApp.API.props",
+      "PackagePath": "buildMultiTargeting\\ServicesApp.API.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\win-x86\\staticwebassets\\msbuild.buildTransitive.ServicesApp.API.props",
+      "PackagePath": "buildTransitive\\ServicesApp.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
